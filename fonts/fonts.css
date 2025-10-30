@@ -12,9 +12,11 @@
   font-style: normal;
 }
 
+
 @font-face {
   font-family: 'Fira Sans Condensed';
   src: url(./FiraSansCondensed-Bold.woff2) format('woff2'), url(./FiraSansCondensed-Bold.woff) format('woff');
   font-weight: 700;
   font-style: normal;
 }
+

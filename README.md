@@ -1,1 +1,1 @@
-https://github.com/demoralization/ono-tebe-nado-a
+https://github.com/demoralization/ono-tebe-nado-ad
